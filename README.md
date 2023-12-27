@@ -75,7 +75,7 @@ endmodule
 ![image](https://github.com/jokerjana/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147173630/2c91a9cb-6ba7-4e62-88f8-c95e85b3b997)
 
 ### TRUTH TABLE 
-![image](https://github.com/Raji1009/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/89059861/a2d05afa-0f64-4906-9001-e9deb30f4f65)
+![image](https://github.com/jokerjana/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147173630/12a244e7-2917-42d2-9491-c22ef5c26f47)
 
 ### Result:
 Thus the given logic functions are implemented and their operations are verified using verilog programming
